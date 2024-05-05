@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="HRM Test Suite">
+<test name ="Login">
+<classes>
+<class name="testCases.Login">
+</class>
+</classes>
+</test>
+<test name="Logout">
+<classes>
+<class name="testCases.Logout">
+</class>
+</classes>
+
+</test>
+
+
+</suite>
